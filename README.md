@@ -10,8 +10,6 @@ Untuk mengakses web (jika sudah di-hosting), silahkan menggunakan link berikut: 
 
 ## 📸 Tangkapan Layar (Screenshots)
 
-*> Catatan: Ganti link gambar di bawah ini dengan screenshot aplikasi Anda sendiri.*
-
 ### 1. Halaman Utama (Dashboard)
 <img width="1919" height="823" alt="image" src="https://github.com/user-attachments/assets/f06dffe0-6011-446a-8580-f9e80c43ac3d" />
 
