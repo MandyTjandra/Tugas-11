@@ -4,7 +4,7 @@ Ini adalah proyek aplikasi manajemen data siswa sederhana (CRUD) yang dilengkapi
 
 Aplikasi ini mendemonstrasikan kemampuan dasar manipulasi database serta integrasi library eksternal untuk kebutuhan pelaporan dokumen digital.
 
-Untuk mengakses web (jika sudah di-hosting), silahkan menggunakan link berikut: [Link Website](https://link-website-anda.com/)
+Untuk mengakses web, silahkan menggunakan link berikut: [Link Website](https://tugas11.infinityfreeapp.com/index.php)
 
 -----
 
